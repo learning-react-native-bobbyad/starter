@@ -1,0 +1,1 @@
+This is just a quick starter file for the first part of a [Udemy course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
